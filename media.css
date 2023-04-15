@@ -1,0 +1,15 @@
+/* @media only screen and (max-width:320px){
+    *{
+        font-size:10px;
+    }
+    header{
+        height:10vh;
+    }
+    nav ul li{
+        padding:5px;
+    }
+    .input input{
+        width:20px;
+        height:10px;
+    }
+} */
